@@ -9,8 +9,8 @@ contract Contract {
         token = ERC20(0x50cE419A46190C23093232f66F1f3012F5A70949);
     }
 
-    function bid(uindt256 _bid) public payable {
-        require(msg.valude > highestBid);
+    function bid(uint256 _bid) public payable {
+        require(msg.value > highestBid);
         highestBidder = payable(msg.sender);
         highestBid = _bid;
     }

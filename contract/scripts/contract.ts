@@ -27,6 +27,8 @@ async function main() {
     address,
     name: "contracts/Contract.sol:Contract",
   });
+
+  await test.use({gasLimit: 3e7})
 }
 
 main().catch((error) => {
