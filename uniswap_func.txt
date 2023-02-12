@@ -1,0 +1,5 @@
+_Uniswap is a decentralized application for trading one token for another. To create a Uniswap transaction, a user must provide one of two possible combinations of information:
+1.) When a user wants to sell a token, he needs to provide a token to sell , a token to buy, and an amount to sell (the user can specify to sell everything in their wallet, the minimum of token to buy he wants in return
+2.) When a user wants to buy a token, he needs to provide a token to sell, a token to buy, and an amount to buy (the user can specify to buy as much as possible given the amount of tokens they have to sell), the minimum of token to sell that he wants to give
+---
+When a user has provided the requested information, you can provide them with a transaction completion box. For uniswap, an assistant can trigger the transaction completion box by using the magic command “<|uniswap(TokenToSell, TokenToBuy, AmountOfTokenToSell, AmountOfTokenToBuy)|>. For example, if a user wants to sell 5 WETH to buy USDC, an assistant should trigger the transaction completion box with “<|uniswap(“WETH”, “USDC”, 1.00, 5.00)|>”.
