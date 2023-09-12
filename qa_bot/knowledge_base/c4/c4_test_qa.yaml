@@ -1,0 +1,104 @@
+# list of question answer pairs in yaml format
+
+- question: Hi, how can I get backstage access?
+  answer: |
+    To get backstage access, you need to become a certified contributor. Here's how you can do that:
+
+    Submit the Certified Contributor Application form and agree to the Certified Contributor Terms and Conditions. You can find the application form on the Code4rena website.
+    After you submit the form, the DAO's AML/KYC agent, Provenance, will contact you to certify your identity.
+
+    Once you're a certified contributor, you may be eligible to participate in "Backstage" warden opportunities, which include post-contest triage and post-judging QA. Other opportunities for certified contributors include private or invite-only contests, the scout role, judging, providing mitigation review services, and offering solo audit and consulting services through C4.
+
+    Please note that Code4rena is committed to privacy, so the certification process is done through a third party, Provenance, which is bound by confidentiality.
+  source: https://docs.code4rena.com/roles/certified-contributors
+
+- question: how long does it take until findings are released?
+  answer: |
+    Based on the context provided, the findings from the C4 contest are typically made public when the audit report is published. This happens between Day 42 and Day 60 after the contest finishes. Please note that these are average times and the actual timeline may vary. The team is actively working to improve their planning and processes to speed up this timeline.
+  source: https://docs.code4rena.com/structure/our-process
+
+- question: When can I talk about findings?
+  answer: |
+    You can talk about your findings after the contest report has been published. Publicly disclosing any discovered bugs or vulnerabilities before this point is grounds for disqualification from all C4 events. So, it's crucial to wait until the official report is out before discussing your findings.
+  source: https://docs.code4rena.com/roles/wardens
+
+- question: How do I change my wallet address?
+  answer: |
+    To change your wallet address, follow these steps:
+    Log into your account.
+    Navigate to your account management page.
+    Update your payment information with your new wallet address.
+
+    Please note that for each contest, awards are distributed to the payment address on file at the time of award calculation. So, make sure to update your wallet address before the award calculation begins.
+  source: https://docs.code4rena.com/structure/frequently-asked-questions
+
+- question: What are scouts?
+  answer: |
+    In the context of Code4rena, Scouts are individuals who focus on scoping and pre-audit intel. This means they are responsible for gathering and analyzing information before an audit takes place. This could involve understanding the project's scope, identifying potential areas of risk, and preparing the necessary information for the audit process.
+  source: https://code4rena.com/how-it-works
+
+- question: How long does the contest process usually take?
+  answer: |
+    Based on the provided context, the contest process usually takes between 1 to 60 days. Here's a more detailed breakdown:
+
+    Contest finishes: Day 1
+    Sponsors review and give feedback on findings: Day 14 (on average)
+    Judges determine final severity: Day 21-30
+    Judging QA complete; awards announced: Day 25-34
+    Awards are distributed; Sponsors complete mitigation of any issues: Day 32-44
+    Audit report is published; Contest issues are made public: Day 42-60
+
+    Please note that these are average times and the actual timeline may vary. The team is actively working to improve the planning and processes to speed up the process.
+  source: https://docs.code4rena.com/structure/our-process
+
+- question: how does certification work?
+  answer: |
+    The certification process at Code4rena works in the following way:
+    An eligible contributor submits the Certified Contributor Application form and agrees to the Certified Contributor Terms and Conditions. This is the initial step where the contributor expresses their interest in becoming certified.
+
+    After the application is submitted, the DAO's AML/KYC agent, Provenance, contacts the contributor. Provenance is a third-party entity that is bound by confidentiality, ensuring the privacy of the contributor's information.
+
+    Provenance then proceeds to certify the contributor's identity. This is done to establish trust and ensure that the contributor is who they claim to be.
+
+    Once certified, contributors may be eligible to participate in various activities such as private contests, judging, providing mitigation review services, and more. The certification also opens up potential opportunities for certain contest bonus token awards and may be a factor in maxing out awards in the future.
+  source: https://docs.code4rena.com/roles/certified-contributors
+
+- question: Can I use bots to analyze code?
+  answer: |
+    Yes, you can use bots to analyze code. In fact, there are competitions called "Bot Races" where AI and automated tools are used as the first phase of a competitive audit. In these races, "Bot Crews" compete to see whose bot can create the highest quality and most thorough audit report. The process works in two stages:
+
+    Stage 1: Qualifier Race
+    Bot Crews race to have their bots deliver the highest quality and most thorough report based on a repo provided at start time.
+    Qualifier Races are open for one hour.
+    Judges choose the Top 20 Bots for upcoming competitions.
+
+    Stage 2: Bot Race
+    The details of this stage are not provided in the context, but it likely involves the top bots from the Qualifier Race competing in a more intensive code analysis challenge.
+
+    This shows that bots can indeed be used to analyze code, and can even be quite effective at it.
+  source: https://code4rena.com/register/bot
+
+- question: Can I use bots to analyze code?
+  answer: |
+    Yes, you can use bots to analyze code. In fact, there are competitions called "Bot Races" where AI and automated tools are used as the first phase of a competitive audit. In these races, "Bot Crews" compete to see whose bot can create the highest quality and most thorough audit report. The process works in two stages:
+
+    Stage 1: Qualifier Race
+    Bot Crews race to have their bots deliver the highest quality and most thorough report based on a repo provided at start time.
+    Qualifier Races are open for one hour.
+    Judges choose the Top 20 Bots for upcoming competitions.
+
+    Stage 2: Bot Race
+    The details of this stage are not provided in the context, but it likely involves the top bots from the Qualifier Race competing in a more intensive code analysis challenge.
+
+    This shows that bots can indeed be used to analyze code, and can even be quite effective at it.
+  source: https://code4rena.com/register/bot
+
+- question: Can I use chatgpt?
+  answer: |
+    Yes, you can use bots to analyze code. This is evident in the concept of "Bot Races" as described in the context. In these races, AI and automated tools, or "bots", are used in the first phase of a competitive audit. These bots compete to create the highest quality and most thorough audit report based on a provided repository. The bots that deliver the best reports are then chosen for upcoming competitions. This shows that bots can indeed be used to analyze code, and can even be used competitively to determine which bot can perform the most comprehensive analysis.
+  source: https://code4rena.com/register/bot
+
+- question: What is a lookout?
+  answer: |
+    In the context provided, a lookout is a role in the Code4rena ecosystem. Lookouts review and organize submissions to Code4rena’s audits. They play a crucial part in ensuring the quality and organization of the audit submissions.
+  source: https://code4rena.com/how-it-works
