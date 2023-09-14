@@ -78,26 +78,6 @@
     This shows that bots can indeed be used to analyze code, and can even be quite effective at it.
   source: https://code4rena.com/register/bot
 
-- question: Can I use bots to analyze code?
-  answer: |
-    Yes, you can use bots to analyze code. In fact, there are competitions called "Bot Races" where AI and automated tools are used as the first phase of a competitive audit. In these races, "Bot Crews" compete to see whose bot can create the highest quality and most thorough audit report. The process works in two stages:
-
-    Stage 1: Qualifier Race
-    Bot Crews race to have their bots deliver the highest quality and most thorough report based on a repo provided at start time.
-    Qualifier Races are open for one hour.
-    Judges choose the Top 20 Bots for upcoming competitions.
-
-    Stage 2: Bot Race
-    The details of this stage are not provided in the context, but it likely involves the top bots from the Qualifier Race competing in a more intensive code analysis challenge.
-
-    This shows that bots can indeed be used to analyze code, and can even be quite effective at it.
-  source: https://code4rena.com/register/bot
-
-- question: Can I use chatgpt?
-  answer: |
-    Yes, you can use bots to analyze code. This is evident in the concept of "Bot Races" as described in the context. In these races, AI and automated tools, or "bots", are used in the first phase of a competitive audit. These bots compete to create the highest quality and most thorough audit report based on a provided repository. The bots that deliver the best reports are then chosen for upcoming competitions. This shows that bots can indeed be used to analyze code, and can even be used competitively to determine which bot can perform the most comprehensive analysis.
-  source: https://code4rena.com/register/bot
-
 - question: What is a lookout?
   answer: |
     In the context provided, a lookout is a role in the Code4rena ecosystem. Lookouts review and organize submissions to Code4rena’s audits. They play a crucial part in ensuring the quality and organization of the audit submissions.
