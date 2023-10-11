@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Where does the name 'Code 423n4' come from?",
+        "answer": "The name 'Code 423n4' is a play on words. It stands for 'Code Arena' and is a cute way of using numbers to represent words.",
+        "timestamp": "02/15/2021 7:56 PM",
+        "source_author": "scott_L"
+    },
+    {
+        "question": "What is the meaning behind using numbers to make words?",
+        "answer": "Using numbers to make words in the name 'Code 423n4' is simply a creative and playful choice.",
+        "timestamp": "02/15/2021 7:59 PM",
+        "source_author": "Shauhin"
+    },
+    {
+        "question": "Is there a page for the contest that lists wardens, judges, and sponsors?",
+        "answer": "Yes, there is a plan to create a page for the contest that will list and link to wardens, judges, and sponsors. There may also be a GitHub form for people to fill out when joining as a warden, providing links to their socials, bio, and avatar.",
+        "timestamp": "02/16/2021 9:02 PM",
+        "source_author": "\ud83e\udde6 sockdrawer | C4"
+    },
+    {
+        "question": "Are there any other ideas for enhancing the website?",
+        "answer": "Yes, there are ongoing discussions about enhancing the website. Contributions and ideas are welcome, and interested individuals can submit pull requests on GitHub.",
+        "timestamp": "02/16/2021 9:26 PM",
+        "source_author": "zscole"
+    },
+    {
+        "question": "When will participants have access to the codebase?",
+        "answer": "Participants will have access to the codebase starting on February 17 at 1400 UTC (9AM EST).",
+        "timestamp": "02/16/2021 11:17 PM",
+        "source_author": "zscole"
+    },
+    {
+        "question": "Are the smart contracts used in the competition from the real world?",
+        "answer": "Yes, the smart contracts used in the competition are real contracts that will be deployed after being audited.",
+        "timestamp": "02/17/2021 3:35 PM",
+        "source_author": "shinobi"
+    },
+    {
+        "question": "How should issues with the smart contracts be disclosed?",
+        "answer": "There are guidelines on how to report any issues with the smart contracts. Participants should follow these guidelines to disclose any vulnerabilities or concerns.",
+        "timestamp": "02/17/2021 3:36 PM",
+        "source_author": "Matthias | ChainSecurity"
+    }
+]
