@@ -3,4 +3,5 @@
 .ipynb_checkpoints
 .DS_Store
 outputs/*.xlsx
+codeArena/output/llm_results
 Code4rena_-_Main_-_questions.html
